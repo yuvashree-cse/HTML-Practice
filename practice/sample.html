@@ -4,6 +4,42 @@
         <title>My First Web Page</title>
     </head>
     <body>
+      <label for="email">Email:</label>
+<input type="email" id="email" name="email" placeholder="name@example.com">
+      <label for="first-name">First Name:</label>
+<input type="text" id="first-name" name="first-name" value="Yuvi">
+      <form action="submit-form.php" method="POST">
+  <!-- Form elements/fields go here -->
+</form>
+<input type="text" name="username" maxlength="20">
+<input type="number" name="age" min="18" max="100">
+<input type="text" name="address" autocomplete="off">
+<input type="text" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+<label for="username">Username:</label>
+<input type="text" id="username" name="username" value="Yuvashree" disabled>
+<label for="email">Email:</label>
+<input type="email" id="email" name="useremail" required>
+<label for="message">Message:</label>
+<textarea id="message" name="message" rows="4" cols="50"></textarea>
+<label for="pasta">Pasta:</label>
+<select id="pasta" name="pasta">
+  <option value="spaghetti">Spaghetti</option>
+  <option value="penne">Penne</option>
+  <option value="lasagna">Lasagna</option>
+  <option value="farfalle">Farfalle</option>
+</select>
+<button type="button" onclick="alert('Hello, World!')">Click me!</button>
+<fieldset>
+  <legend>Shipping Address</legend>
+  <label for="address">Address:</label>
+  <input type="text" id="address" name="address">
+  <br>
+  <label for="city">City:</label>
+  <input type="text" id="city" name="city">
+  <br>
+  <label for="zip-code">ZIP Code:</label>
+  <input type="text" id="zip-code" name="zip-code">
+</fieldset>
         <h1>Hello, World!</h1>
         <p>This is my first web page.</p>
         <ul>
@@ -171,6 +207,22 @@
 What a sight to see,
 A vast and endless web,
 Connecting you and me.</pre>
+<!-- Video Example -->
+<video controls>
+   <source src="myvideo.mp4" type="video/mp4">
+   <source src="myvideo.webm" type="video/webm">
+   <p>Your browser does not support the video tag.</p>
+</video>
+
+<!-- Audio Example -->
+<audio controls>
+   <source src="myaudiofile.mp3" type="audio/mp3">
+   <source src="myaudiofile.ogg" type="audio/ogg">
+   <p>Your browser does not support the audio tag.</p>
+</audio>
+<video src="myvideo.mp4" controls autoplay>
+   Your browser does not support the video tag.
+</video>
 <pre>&lt;body&gt;
     &lt;h1&gt;Hello, World!&lt;/h1&gt;
     &lt;p&gt;Welcome to my first HTML page.&lt;/p&gt;
