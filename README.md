@@ -1,27 +1,17 @@
-# HTML Learning 🌐
+# 🌐 HTML Learning
 
-Welcome to my **HTML Learning** repository! This repository documents my journey of learning HTML through the **HTML Essentials** course offered by **Cisco Networking Academy**. It contains my practice exercises, module projects, and hands-on experiments as I build a strong foundation in web development.
+Welcome to my **HTML Learning Repository**! 🚀
+
+This repository documents my journey of learning **HTML5** through the **HTML Essentials** course offered by **Cisco Networking Academy**. It contains my practice exercises, module-based projects, and hands-on implementations of the concepts covered throughout the course.
+
+The goal of this repository is to strengthen my understanding of HTML fundamentals, semantic markup, accessibility, and modern web page structure while building practical projects.
 
 ---
 
-## 📖 About
+## 📖 Course
 
-This repository serves as my personal learning journal where I practice HTML concepts and apply them through mini-projects.
-
-Throughout this course, I explore:
-
-* HTML document structure
-* Text formatting
-* Lists and tables
-* Hyperlinks
-* Images and multimedia
-* Forms
-* Semantic HTML
-* Accessibility best practices
-* Page organization
-* Basic web design principles
-
-Each project reflects the concepts learned in a specific module of the course.
+**Course:** HTML Essentials
+**Platform:** Cisco Networking Academy
 
 ---
 
@@ -31,45 +21,108 @@ Each project reflects the concepts learned in a specific module of the course.
 html-learning/
 │
 ├── practice/
-│   ├── Topic-wise HTML practice
-│   ├── Exercises
-│   ├── Experiments
-│   └── Practice files
+│   ├── HTML practice exercises
+│   ├── Topic-wise experiments
+│   └── Concept implementations
 │
 ├── AboutMe/
 ├── Bloom&PetalHaven/
 ├── TasteOfTravel/
 ├── HarmonyHeights/
 ├── SunnydaleSchool/
-├── Project-06/
-├── Project-07/
+├── HarborLightsCommunityCentre/
+├── Upcoming Project/
 │
 └── README.md
 ```
 
+The repository is divided into two sections:
+
+* **Practice** – Contains exercises and experiments based on newly learned HTML concepts.
+* **Projects** – Contains module-based mini projects developed throughout the course.
+
 ---
 
-# 📚 Practice Folder
+# 📚 Topics Covered
 
-The **practice** folder contains my personal exercises created while following the course.
+Throughout this course, I have learned and practiced:
 
-Here I experiment with newly learned concepts such as:
+### HTML Fundamentals
 
-* HTML elements
+* HTML document structure
+* Elements and tags
+* Attributes
 * Headings
 * Paragraphs
-* Lists
-* Links
-* Images
-* Tables
-* Forms
-* Semantic elements
-* Accessibility features
-* HTML attributes
-* Nesting elements
-* Page structure
+* Comments
 
-These files help reinforce my understanding before applying concepts in projects.
+### Text Formatting
+
+* Bold and emphasis
+* Superscript and subscript
+* Quotations
+* Code formatting
+* Special characters
+
+### Lists
+
+* Ordered lists
+* Unordered lists
+* Description lists
+* Nested lists
+
+### Hyperlinks
+
+* Internal links
+* External links
+* Email links
+* Relative and absolute paths
+
+### Images
+
+* Image embedding
+* Alternative text
+* Image accessibility
+
+### Tables
+
+* Creating tables
+* Table headers
+* Rowspan and colspan
+* Table organization
+
+### Forms
+
+* Input elements
+* Labels
+* Buttons
+* Text areas
+* Select menus
+* Form validation basics
+
+### Multimedia
+
+* Audio
+* Video
+* Embedded content
+
+### Semantic HTML
+
+* `<header>`
+* `<nav>`
+* `<main>`
+* `<section>`
+* `<article>`
+* `<aside>`
+* `<footer>`
+
+### Accessibility
+
+* Semantic structure
+* Alternative text
+* Accessible forms
+* Proper heading hierarchy
+* Meaningful HTML markup
 
 ---
 
@@ -77,176 +130,113 @@ These files help reinforce my understanding before applying concepts in projects
 
 ## 👤 AboutMe
 
-**Status:** ✅ Completed
-
-My very first HTML project.
-
-This project introduces basic HTML structure while creating a simple personal webpage.
-
-Topics practiced:
-
-* Basic HTML document
-* Headings
-* Paragraphs
-* Lists
-* Links
-* Images
-* Basic page organization
+A simple introductory webpage created as my first HTML project to understand the basics of page structure and HTML elements.
 
 ---
 
 ## 🌸 Bloom&PetalHaven
 
-**Module:** Module 1 – Getting Started with HTML
+**Module 1 – Getting Started with HTML**
 
-**Status:** ✅ Completed
+Focused on building a foundational webpage while learning:
 
-A beginner-friendly website built after learning the fundamentals of HTML.
-
-Topics covered:
-
-* HTML document structure
-* Text elements
+* Basic HTML structure
 * Headings
 * Paragraphs
 * Lists
-* Hyperlinks
+* Links
 * Images
 
 ---
 
 ## 🍽️ TasteOfTravel
 
-**Module:** Module 2 – Formatting Text and Organizing Data
+**Module 2 – Formatting Text and Organizing Data**
 
-**Status:** ✅ Completed
-
-A travel-themed webpage focusing on presenting structured information.
-
-Topics practiced:
+This project helped reinforce:
 
 * Text formatting
-* Ordered and unordered lists
-* Description lists
+* Lists
 * Tables
-* Organizing content
-* Hyperlinks
-* Clean page layout
+* Organized content layout
 
 ---
 
-## 🎵 HarmonyHeights
+## 🎨 HarmonyHeights
 
-**Module:** Module 3 – Exploring Visual and Interactive Elements
+**Module 3 – Exploring Visual and Interactive Elements**
 
-**Status:** ✅ Completed
-
-A project that introduces richer web content using visual and interactive HTML elements.
-
-Topics practiced:
+Concepts practiced include:
 
 * Images
-* Audio
-* Video
-* Embedded content
+* Hyperlinks
 * Forms
-* User interaction
-* Accessibility considerations
+* Interactive HTML elements
 
 ---
 
 ## 🏫 SunnydaleSchool
 
-**Module:** Module 4 – Enhancing Web Presentation
+**Module 4 – Enhancing Web Presentation**
 
-**Status:** ✅ Completed
-
-A larger HTML project that combines concepts learned throughout the course while emphasizing semantic structure and accessibility.
-
-Topics practiced:
+This project focuses on creating a well-structured webpage using:
 
 * Semantic HTML
-* Header
-* Navigation
-* Main content
-* Sections
-* Articles
-* Aside
-* Footer
+* Better page organization
+* Accessibility-friendly structure
+* Improved content presentation
+
+---
+
+## 🏛️ HarborLightsCommunityCentre
+
+**Module 5**
+
+Built by applying concepts learned throughout the course, including:
+
+* Semantic page layout
+* Forms
+* Tables
 * Accessibility
-* Meaningful document structure
-* Better content organization
+* Well-organized webpage structure
 
 ---
 
-## 🚧 Upcoming Projects
+## 🚧 Upcoming Project
 
-The remaining projects from the course will be added as I continue progressing through the modules.
-
----
-
-# 📚 Topics Learned So Far
-
-✅ HTML document structure
-
-✅ HTML elements
-
-✅ Headings and paragraphs
-
-✅ Lists
-
-✅ Hyperlinks
-
-✅ Images
-
-✅ Tables
-
-✅ Forms
-
-✅ Multimedia
-
-✅ Semantic HTML
-
-✅ Accessibility
-
-✅ Organizing web content
-
-✅ HTML attributes
-
-✅ Page structure
+One final project from the course is yet to be completed and will be added here soon.
 
 ---
 
-# 🎯 Learning Goal
+# 💻 Purpose
 
-My objective is to build a solid understanding of HTML before moving on to:
+This repository serves as:
 
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Full Stack Web Development
-
-I believe mastering the fundamentals first leads to writing cleaner, more maintainable, and accessible websites.
+* 📘 My HTML learning journal
+* 📝 A collection of practice exercises
+* 🛠️ A portfolio of module-based projects
+* 📈 A record of my progress while learning web development
 
 ---
 
-# 🛠️ Course
+# 🎯 Learning Goals
 
-**Course:** HTML Essentials
-
-**Platform:** Cisco Networking Academy
-
----
-
-## 📈 Repository Status
-
-* ✔️ Practice files are updated regularly.
-* ✔️ Projects are added module by module.
-* ✔️ This repository will continue to grow as I complete the remaining course modules.
+* Build a strong foundation in HTML5
+* Write clean and semantic HTML
+* Follow accessibility best practices
+* Prepare for CSS and JavaScript development
+* Create responsive and well-structured web pages
 
 ---
 
-### Thank you for visiting my repository!
+## 📌 Status
 
-Feel free to explore the projects and follow my learning journey as I continue building my web development skills. 🚀
+✅ HTML course currently in progress.
+
+More practice exercises and the final project will be added as I continue learning.
+
+---
+
+### Thanks for visiting! ⭐
+
+If you're exploring this repository, feel free to browse through the practice exercises and projects to see my learning progress throughout the HTML Essentials course.
