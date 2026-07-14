@@ -11,6 +11,7 @@ The goal of this repository is to strengthen my understanding of HTML fundamenta
 ## 📖 Course
 
 **Course:** HTML Essentials
+
 **Platform:** Cisco Networking Academy
 
 ---
@@ -225,7 +226,7 @@ This repository serves as:
 
 ## 📌 Status
 
-✅ HTML course currently in progress.
+Currently in progress.
 
 More practice exercises and projects will be added as I continue learning.
 
