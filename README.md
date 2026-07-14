@@ -202,12 +202,6 @@ Built by applying concepts learned throughout the course, including:
 
 ---
 
-## 🚧 Upcoming Project
-
-One final project from the course is yet to be completed and will be added here soon.
-
----
-
 # 💻 Purpose
 
 This repository serves as:
@@ -233,7 +227,7 @@ This repository serves as:
 
 ✅ HTML course currently in progress.
 
-More practice exercises and the final project will be added as I continue learning.
+More practice exercises and projects will be added as I continue learning.
 
 ---
 
