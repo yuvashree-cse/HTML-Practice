@@ -32,7 +32,7 @@ html-learning/
 ├── HarmonyHeights/
 ├── SunnydaleSchool/
 ├── HarborLightsCommunityCentre/
-├── Upcoming Project/
+├── Upcoming Projects/
 │
 └── README.md
 ```
