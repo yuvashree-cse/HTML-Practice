@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CodeVerse 2026 Registration Form</title>
+    </head>
+    <body>
+        <!--CodeVerse Registration Form-->
+        <h1>CodeVerse 2026 Registration</h1>
+        <p>Complete the registration form below to participate in CodeVerse 2026. Please ensure all required fields are filled correctly.</p>
+        <form>
+            <label for="student-id">Student ID: </label>
+            <input id="student-id" type="text" pattern="CS[0-9]{7}" placeholder="Example: CS2026001" required>
+            <br><br>
+            <label for="name">Name: </label>
+            <input id="name" type="text" placeholder="Enter your full name" required>
+            <br><br>
+            <label for="email">Email: </label>
+            <input id="email" type="email" placeholder="Enter your email" required autocomplete="email">
+            <br><br>
+            <label for="password">Password: </label>
+            <input id="password" type="password" placeholder="Create a strong password" required>
+            <br><br>
+            <label for="age">Age: </label>
+            <input id="age" type="number" required>
+            <br><br>
+            <label for="date">Date of Birth</label>
+            <input id="date" type="date" required>
+            <br><br>
+            <h2>Education</h2>
+            <label for="department">Department: </label>
+            <select id="department">
+                <option>Computer Science Engineering</option>
+                <option>Information Technology</option>
+                <option>Artificial Intelligence & Data Science</option>
+                <option>Electronics and Communication Engineering</option>
+                <option>Mechanical Engineering</option>
+            </select>
+            <br>
+            <br>
+            <label for="year">Year of Study: </label>
+            <select id="year">
+                <option>First Year</option>
+                <option>Second Year</option>
+                <option>Third Year</option>
+                <option>Final Year</option>
+            </select>
+            <h3>Programming Languages:</h3>
+            <label><input type="checkbox"> Java</label>
+            <label><input type="checkbox"> Python</label>
+            <label><input type="checkbox"> C++</label>
+            <label><input type="checkbox"> JavaScript</label>
+            <label><input type="checkbox"> Go</label>
+
+            <h3>Experience Level:</h3>
+            <label><input type="radio" name="experience"> Beginner</label>
+            <label><input type="radio" name="experience"> Intermediate</label>
+            <label><input type="radio" name="experience"> Advanced</label>
+            
+            <h3>Competitive Categories:</h3>
+            <label><input type="checkbox"> Web Development</label>
+            <label><input type="checkbox"> Artificial Intelligence</label>
+            <label><input type="checkbox"> Cybersecurity</label>
+            <label><input type="checkbox"> Competitive Programming</label>
+            <label><input type="checkbox"> UI/UX Design</label>
+
+            <h3>About Yourself:</h3>
+            <textarea rows="5" cols="40" placeholder="Tell us about your technical interests..."></textarea>
+            <h3>Declaration:</h3>
+            <input type="checkbox" required> I confirm that the information provided is correct.<br><br>
+            <button type="submit">Register</button>
+            <button type="reset">Reset Form</button>
+        </form>
+    </body>
+</html>
